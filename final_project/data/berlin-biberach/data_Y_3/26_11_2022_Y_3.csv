@@ -1,0 +1,595 @@
+price,ticketType,age,discount,date,departure,destination,duration,startTime,arrivalTime
+"21,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"26,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"21,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"26,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"21,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"26,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"21,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"26,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"21,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"26,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"21,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"26,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"21,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"26,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"21,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"26,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"21,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"26,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:30,11:36,2
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"21,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 40min,06:30,13:10,3
+"26,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 40min,06:30,13:10,3
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 40min,06:30,13:10,3
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 40min,06:30,13:10,3
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"21,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 40min,06:30,13:10,3
+"26,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 40min,06:30,13:10,3
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 40min,06:30,13:10,3
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 40min,06:30,13:10,3
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"21,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 40min,06:30,13:10,3
+"26,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 40min,06:30,13:10,3
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 40min,06:30,13:10,3
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 40min,06:30,13:10,3
+"31,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 10min,07:28,14:38,1
+"35,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 10min,07:28,14:38,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 10min,07:28,14:38,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 10min,07:28,14:38,1
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,07:37,13:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,07:37,13:36,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,07:37,13:36,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,07:37,13:36,2
+"21,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 40min,06:30,13:10,3
+"26,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 40min,06:30,13:10,3
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 40min,06:30,13:10,3
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 40min,06:30,13:10,3
+"31,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 10min,07:28,14:38,1
+"35,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 10min,07:28,14:38,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 10min,07:28,14:38,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 10min,07:28,14:38,1
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,07:37,13:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,07:37,13:36,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,07:37,13:36,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,07:37,13:36,2
+"31,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 10min,07:28,14:38,1
+"35,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 10min,07:28,14:38,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 10min,07:28,14:38,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 10min,07:28,14:38,1
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,07:37,13:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,07:37,13:36,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,07:37,13:36,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,07:37,13:36,2
+"34,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 33min,08:05,14:38,2
+"38,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 33min,08:05,14:38,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 33min,08:05,14:38,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 33min,08:05,14:38,2
+"31,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 10min,07:28,14:38,1
+"35,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 10min,07:28,14:38,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 10min,07:28,14:38,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 10min,07:28,14:38,1
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,07:37,13:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,07:37,13:36,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,07:37,13:36,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,07:37,13:36,2
+"34,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 33min,08:05,14:38,2
+"38,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 33min,08:05,14:38,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 33min,08:05,14:38,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 33min,08:05,14:38,2
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,07:37,13:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,07:37,13:36,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,07:37,13:36,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,07:37,13:36,2
+"34,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 33min,08:05,14:38,2
+"38,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 33min,08:05,14:38,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 33min,08:05,14:38,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 33min,08:05,14:38,2
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,08:30,15:08,3
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,08:30,15:08,3
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,08:30,15:08,3
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,08:30,15:08,3
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,08:30,15:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,08:30,15:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,08:30,15:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,08:30,15:36,2
+"34,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 33min,08:05,14:38,2
+"38,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 33min,08:05,14:38,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 33min,08:05,14:38,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 33min,08:05,14:38,2
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,08:30,15:08,3
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,08:30,15:08,3
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,08:30,15:08,3
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,08:30,15:08,3
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,08:30,15:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,08:30,15:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,08:30,15:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,08:30,15:36,2
+"31,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,09:28,16:36,1
+"35,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,09:28,16:36,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,09:28,16:36,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,09:28,16:36,1
+"31,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,10:04,16:36,2
+"35,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,10:04,16:36,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,10:04,16:36,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,10:04,16:36,2
+"31,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,10:30,17:08,3
+"35,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,10:30,17:08,3
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,10:30,17:08,3
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,10:30,17:08,3
+"31,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,09:28,16:36,1
+"35,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,09:28,16:36,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,09:28,16:36,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,09:28,16:36,1
+"31,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,10:04,16:36,2
+"35,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,10:04,16:36,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,10:04,16:36,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,10:04,16:36,2
+"31,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,10:30,17:08,3
+"35,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,10:30,17:08,3
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,10:30,17:08,3
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,10:30,17:08,3
+"31,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,10:04,16:36,2
+"35,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,10:04,16:36,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,10:04,16:36,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,10:04,16:36,2
+"31,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,10:30,17:08,3
+"35,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,10:30,17:08,3
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,10:30,17:08,3
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,10:30,17:08,3
+"34,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,11:28,18:36,1
+"38,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,11:28,18:36,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,11:28,18:36,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,11:28,18:36,1
+"21,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,11:37,17:36,2
+"26,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,11:37,17:36,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,11:37,17:36,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,11:37,17:36,2
+"31,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,10:04,16:36,2
+"35,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,10:04,16:36,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,10:04,16:36,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,10:04,16:36,2
+"31,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,10:30,17:08,3
+"35,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,10:30,17:08,3
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,10:30,17:08,3
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,10:30,17:08,3
+"34,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,11:28,18:36,1
+"38,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,11:28,18:36,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,11:28,18:36,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,11:28,18:36,1
+"21,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,11:37,17:36,2
+"26,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,11:37,17:36,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,11:37,17:36,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,11:37,17:36,2
+"34,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,11:28,18:36,1
+"38,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,11:28,18:36,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,11:28,18:36,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,11:28,18:36,1
+"21,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,11:37,17:36,2
+"26,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,11:37,17:36,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,11:37,17:36,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,11:37,17:36,2
+"39,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 31min,12:05,18:36,2
+"45,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 31min,12:05,18:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 31min,12:05,18:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 31min,12:05,18:36,2
+"34,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,11:28,18:36,1
+"38,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,11:28,18:36,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,11:28,18:36,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,11:28,18:36,1
+"21,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,11:37,17:36,2
+"26,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,11:37,17:36,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,11:37,17:36,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,11:37,17:36,2
+"39,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 31min,12:05,18:36,2
+"45,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 31min,12:05,18:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 31min,12:05,18:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 31min,12:05,18:36,2
+"21,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,11:37,17:36,2
+"26,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,11:37,17:36,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,11:37,17:36,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,5h 59min,11:37,17:36,2
+"39,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 31min,12:05,18:36,2
+"45,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 31min,12:05,18:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 31min,12:05,18:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 31min,12:05,18:36,2
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,12:30,19:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,12:30,19:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,12:30,19:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,12:30,19:36,2
+"39,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 31min,12:05,18:36,2
+"45,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 31min,12:05,18:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 31min,12:05,18:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 31min,12:05,18:36,2
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,12:30,19:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,12:30,19:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,12:30,19:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,12:30,19:36,2
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,13:28,20:36,1
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,13:28,20:36,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,13:28,20:36,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,13:28,20:36,1
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,14:04,20:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,14:04,20:36,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,14:04,20:36,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,14:04,20:36,2
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,13:28,20:36,1
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,13:28,20:36,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,13:28,20:36,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,13:28,20:36,1
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,14:04,20:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,14:04,20:36,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,14:04,20:36,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,14:04,20:36,2
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,14:30,21:08,3
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,14:30,21:08,3
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,14:30,21:08,3
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,14:30,21:08,3
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,14:30,21:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,14:30,21:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,14:30,21:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,14:30,21:36,2
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,13:28,20:36,1
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,13:28,20:36,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,13:28,20:36,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,13:28,20:36,1
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,14:04,20:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,14:04,20:36,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,14:04,20:36,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,14:04,20:36,2
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,14:30,21:08,3
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,14:30,21:08,3
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,14:30,21:08,3
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,14:30,21:08,3
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,14:30,21:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,14:30,21:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,14:30,21:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,14:30,21:36,2
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,14:04,20:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,14:04,20:36,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,14:04,20:36,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,14:04,20:36,2
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,14:30,21:08,3
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,14:30,21:08,3
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,14:30,21:08,3
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,14:30,21:08,3
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,14:30,21:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,14:30,21:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,14:30,21:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,14:30,21:36,2
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,14:04,20:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,14:04,20:36,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,14:04,20:36,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,14:04,20:36,2
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,14:30,21:08,3
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,14:30,21:08,3
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,14:30,21:08,3
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 38min,14:30,21:08,3
+"26,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,14:30,21:36,2
+"30,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,14:30,21:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,14:30,21:36,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,14:30,21:36,2
+"21,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 00min,15:37,22:37,2
+"26,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 00min,15:37,22:37,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 00min,15:37,22:37,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 00min,15:37,22:37,2
+"34,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,16:05,22:37,2
+"38,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,16:05,22:37,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,16:05,22:37,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,16:05,22:37,2
+"21,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 29min,17:36,00:05,2
+"26,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 29min,17:36,00:05,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 29min,17:36,00:05,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 29min,17:36,00:05,2
+"21,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 00min,15:37,22:37,2
+"26,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 00min,15:37,22:37,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 00min,15:37,22:37,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 00min,15:37,22:37,2
+"34,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,16:05,22:37,2
+"38,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,16:05,22:37,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,16:05,22:37,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,16:05,22:37,2
+"21,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 29min,17:36,00:05,2
+"26,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 29min,17:36,00:05,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 29min,17:36,00:05,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 29min,17:36,00:05,2
+"21,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 00min,15:37,22:37,2
+"26,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 00min,15:37,22:37,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 00min,15:37,22:37,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 00min,15:37,22:37,2
+"34,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,16:05,22:37,2
+"38,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,16:05,22:37,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,16:05,22:37,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,16:05,22:37,2
+"21,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 29min,17:36,00:05,2
+"26,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 29min,17:36,00:05,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 29min,17:36,00:05,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 29min,17:36,00:05,2
+"34,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,16:05,22:37,2
+"38,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,16:05,22:37,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,16:05,22:37,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 32min,16:05,22:37,2
+"21,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 29min,17:36,00:05,2
+"26,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 29min,17:36,00:05,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 29min,17:36,00:05,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 29min,17:36,00:05,2
+"31,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"35,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"21,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 29min,17:36,00:05,2
+"26,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 29min,17:36,00:05,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 29min,17:36,00:05,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 29min,17:36,00:05,2
+"31,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"35,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"17,90",Super Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"22,40",Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"21,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 29min,17:36,00:05,2
+"26,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 29min,17:36,00:05,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 29min,17:36,00:05,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 29min,17:36,00:05,2
+"31,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"35,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"17,90",Super Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"22,40",Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"21,65",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 29min,17:36,00:05,2
+"26,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 29min,17:36,00:05,2
+"67,25",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 29min,17:36,00:05,2
+"77,55",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 29min,17:36,00:05,2
+"31,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"35,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"17,90",Super Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"22,40",Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"31,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"35,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"17,90",Super Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"22,40",Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"17,90",Super Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"22,40",Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"31,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"35,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"17,90",Super Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"22,40",Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"17,90",Super Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"22,40",Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"31,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"35,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"17,90",Super Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"22,40",Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"17,90",Super Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"22,40",Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"31,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"35,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"17,90",Super Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"22,40",Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"17,90",Super Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"22,40",Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"31,40",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"35,90",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 52min,20:05,05:57,2
+"17,90",Super Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"22,40",Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"17,90",Super Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"22,40",Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"17,90",Super Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"22,40",Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"17,90",Super Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"22,40",Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,12h 37min,22:59,11:36,3
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,12h 37min,22:59,11:36,3
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,12h 17min,23:19,11:36,4
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,12h 17min,23:19,11:36,4
+"17,90",Super Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"22,40",Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 47min,21:28,07:15,1
+"17,90",Super Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"22,40",Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,12h 37min,22:59,11:36,3
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,12h 37min,22:59,11:36,3
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,12h 17min,23:19,11:36,4
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,12h 17min,23:19,11:36,4
+"17,90",Super Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"22,40",Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,12h 37min,22:59,11:36,3
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,12h 37min,22:59,11:36,3
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,12h 17min,23:19,11:36,4
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,12h 17min,23:19,11:36,4
+"17,90",Super Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"22,40",Sparpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:29,08:36,3
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,12h 37min,22:59,11:36,3
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,12h 37min,22:59,11:36,3
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,12h 17min,23:19,11:36,4
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,12h 17min,23:19,11:36,4
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,12h 37min,22:59,11:36,3
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,12h 37min,22:59,11:36,3
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,12h 17min,23:19,11:36,4
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,12h 17min,23:19,11:36,4
+"35,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"39,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"81,85",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"93,90",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"41,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"47,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"81,85",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"93,90",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"68,20",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,12h 17min,23:19,11:36,4
+"78,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,12h 17min,23:19,11:36,4
+"35,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"39,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"81,85",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"93,90",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"41,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"47,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"81,85",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"93,90",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"35,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"39,65",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"81,85",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"93,90",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 08min,05:28,12:36,1
+"41,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"47,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"81,85",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"93,90",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 35min,06:01,12:36,2
+"41,15",Super Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 40min,06:30,13:10,3
+"47,15",Sparpreis Young,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 40min,06:30,13:10,3
+"80,70",Flexpreis,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 40min,06:30,13:10,3
+"92,65",Flexpreis Plus,Y,3,"Sa.,26.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 40min,06:30,13:10,3
