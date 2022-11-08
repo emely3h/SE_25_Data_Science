@@ -1,0 +1,121 @@
+price,ticketType,age,discount,date,departure,destination,duration,startTime,arrivalTime,changes,searched tariffClass
+"17,90",Super Sparpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,10h 32min,00:22,10:54,2,2
+"22,40",Sparpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,10h 32min,00:22,10:54,2,2
+"117,35",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,10h 32min,00:22,10:54,2,2
+"134,85",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,10h 32min,00:22,10:54,2,2
+"17,90",Super Sparpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 31min,04:28,10:59,1,2
+"22,40",Sparpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 31min,04:28,10:59,1,2
+"117,35",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 31min,04:28,10:59,1,2
+"134,85",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 31min,04:28,10:59,1,2
+"17,90",Super Sparpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 14min,05:34,11:48,2,2
+"22,40",Sparpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 14min,05:34,11:48,2,2
+"117,35",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 14min,05:34,11:48,2,2
+"134,85",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 14min,05:34,11:48,2,2
+"17,90",Super Sparpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,7h 18min,05:34,12:52,1,2
+"22,40",Sparpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,7h 18min,05:34,12:52,1,2
+"117,35",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,7h 18min,05:34,12:52,1,2
+"134,85",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,7h 18min,05:34,12:52,1,2
+"21,65",Super Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 23min,06:29,12:52,2,2
+"26,15",Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 23min,06:29,12:52,2,2
+"117,35",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 23min,06:29,12:52,2,2
+"134,85",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 23min,06:29,12:52,2,2
+"21,65",Super Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 30min,06:29,12:59,1,2
+"26,15",Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 30min,06:29,12:59,1,2
+"117,35",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 30min,06:29,12:59,1,2
+"134,85",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 30min,06:29,12:59,1,2
+"59,15",Super Sparpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,5h 44min,08:04,13:48,1,2
+"65,15",Sparpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,5h 44min,08:04,13:48,1,2
+"117,35",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,5h 44min,08:04,13:48,1,2
+"134,85",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,5h 44min,08:04,13:48,1,2
+"26,90",Super Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 22min,08:29,14:51,2,2
+"31,40",Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 22min,08:29,14:51,2,2
+"117,35",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 22min,08:29,14:51,2,2
+"134,85",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 22min,08:29,14:51,2,2
+"26,90",Super Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 30min,08:29,14:59,1,2
+"31,40",Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 30min,08:29,14:59,1,2
+"117,35",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 30min,08:29,14:59,1,2
+"134,85",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 30min,08:29,14:59,1,2
+"26,90",Super Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 14min,09:34,15:48,1,2
+"31,40",Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 14min,09:34,15:48,1,2
+"117,35",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 14min,09:34,15:48,1,2
+"134,85",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 14min,09:34,15:48,1,2
+"59,90",Super Sparpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,5h 54min,10:04,15:58,2,2
+"65,90",Sparpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,5h 54min,10:04,15:58,2,2
+"117,35",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,5h 54min,10:04,15:58,2,2
+"134,85",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,5h 54min,10:04,15:58,2,2
+"31,40",Super Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 22min,10:29,16:51,2,2
+"35,90",Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 22min,10:29,16:51,2,2
+"117,35",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 22min,10:29,16:51,2,2
+"134,85",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 22min,10:29,16:51,2,2
+"31,40",Super Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 30min,10:29,16:59,1,2
+"35,90",Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 30min,10:29,16:59,1,2
+"117,35",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 30min,10:29,16:59,1,2
+"134,85",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 30min,10:29,16:59,1,2
+"26,90",Super Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 14min,11:34,17:48,2,2
+"31,40",Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 14min,11:34,17:48,2,2
+"117,35",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 14min,11:34,17:48,2,2
+"134,85",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 14min,11:34,17:48,2,2
+"26,15",Super Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 24min,11:34,17:58,1,2
+"30,65",Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 24min,11:34,17:58,1,2
+"117,35",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 24min,11:34,17:58,1,2
+"134,85",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 24min,11:34,17:58,1,2
+"35,15",Super Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 22min,12:29,18:51,2,2
+"39,65",Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 22min,12:29,18:51,2,2
+"117,35",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 22min,12:29,18:51,2,2
+"134,85",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 22min,12:29,18:51,2,2
+"35,15",Super Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 30min,12:29,18:59,1,2
+"39,65",Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 30min,12:29,18:59,1,2
+"117,35",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 30min,12:29,18:59,1,2
+"134,85",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 30min,12:29,18:59,1,2
+"35,15",Super Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 14min,13:34,19:48,1,2
+"39,65",Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 14min,13:34,19:48,1,2
+"117,35",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 14min,13:34,19:48,1,2
+"134,85",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 14min,13:34,19:48,1,2
+"81,65",Super Sparpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 22min,14:29,20:51,2,2
+"89,15",Sparpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 22min,14:29,20:51,2,2
+"117,35",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 22min,14:29,20:51,2,2
+"134,85",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 22min,14:29,20:51,2,2
+"81,65",Super Sparpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 30min,14:29,20:59,1,2
+"89,15",Sparpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 30min,14:29,20:59,1,2
+"117,35",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 30min,14:29,20:59,1,2
+"134,85",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 30min,14:29,20:59,1,2
+"81,65",Super Sparpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,5h 44min,16:04,21:48,1,2
+"89,15",Sparpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,5h 44min,16:04,21:48,1,2
+"117,35",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,5h 44min,16:04,21:48,1,2
+"134,85",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,5h 44min,16:04,21:48,1,2
+"41,15",Super Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 22min,16:29,22:51,2,2
+"47,15",Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 22min,16:29,22:51,2,2
+"117,35",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 22min,16:29,22:51,2,2
+"134,85",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 22min,16:29,22:51,2,2
+"41,15",Super Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,7h 19min,16:29,23:48,1,2
+"47,15",Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,7h 19min,16:29,23:48,1,2
+"117,35",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,7h 19min,16:29,23:48,1,2
+"134,85",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,7h 19min,16:29,23:48,1,2
+"35,15",Super Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 24min,18:29,00:53,2,2
+"39,65",Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 24min,18:29,00:53,2,2
+"117,35",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 24min,18:29,00:53,2,2
+"134,85",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,6h 24min,18:29,00:53,2,2
+"21,65",Super Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,9h 24min,20:29,05:53,2,2
+"26,15",Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,9h 24min,20:29,05:53,2,2
+"117,35",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,9h 24min,20:29,05:53,2,2
+"134,85",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,9h 24min,20:29,05:53,2,2
+"17,90",Super Sparpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,9h 35min,21:26,07:01,1,2
+"22,40",Sparpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,9h 35min,21:26,07:01,1,2
+"117,35",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,9h 35min,21:26,07:01,1,2
+"134,85",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,9h 35min,21:26,07:01,1,2
+"35,15",Super Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,10h 21min,21:27,07:48,2,2
+"39,65",Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,10h 21min,21:27,07:48,2,2
+"117,35",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,10h 21min,21:27,07:48,2,2
+"134,85",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,10h 21min,21:27,07:48,2,2
+"34,40",Super Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,10h 23min,22:28,08:51,4,2
+"38,90",Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,10h 23min,22:28,08:51,4,2
+"96,60",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,10h 23min,22:28,08:51,4,2
+"111,60",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,10h 23min,22:28,08:51,4,2
+"34,40",Super Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,11h 20min,22:28,09:48,3,2
+"38,90",Sparpreis Young,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,11h 20min,22:28,09:48,3,2
+"96,60",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,11h 20min,22:28,09:48,3,2
+"111,60",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,11h 20min,22:28,09:48,3,2
+"17,90",Super Sparpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,10h 13min,00:41,10:54,4,2
+"22,40",Sparpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,10h 13min,00:41,10:54,4,2
+"102,30",Flexpreis,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,10h 13min,00:41,10:54,4,2
+"117,95",Flexpreis Plus,Y,2,"Fr.,03.02.2023",Berlin+Hbf,Bahnhof+ZOB%252C+Memmingen,10h 13min,00:41,10:54,4,2
