@@ -57,11 +57,9 @@ def numToString(number):
 
 
 def getData(start, end, folderName, departureStation, destinationStation, age, discount, tariffClass):
-
     for i in range(start, end):
         current_date = datetime.datetime.now() + datetime.timedelta(i)
         weekDayString = f'{weekdays[current_date.weekday()]}'
-        
         dayString = f'{weekDayString}.,{numToString(current_date.day)}.{numToString(current_date.month)}.{current_date.year}'
         print(f'Get All Data For Day: {dayString} current timestamp: {datetime.datetime.now()}')
         getDataForDay(departureStation, destinationStation, dayString, age, discount, tariffClass, 50, folderName)
@@ -78,23 +76,30 @@ print(f'TIMESTAMP: {datetime.datetime.now()}') """
 """ print(f'TIMESTAMP: {datetime.datetime.now()}')
 getData(14, 90, 'data_E_1', 'Berlin+Hbf',  'Biberach%28Ri%C3%9F%29', 'E', '1', '1')
 print(f'TIMESTAMP: {datetime.datetime.now()}')
-getData(1, 90, 'data_E_2', 'Berlin+Hbf',  'Biberach%28Ri%C3%9F%29', 'E', '2', '2')
-print(f'TIMESTAMP: {datetime.datetime.now()}')
-getData(1, 90, 'data_E_3', 'Berlin+Hbf',  'Biberach%28Ri%C3%9F%29', 'E', '3', '1') 
+getData(1, 90, 'data_E_2', 'Berlin+Hbf',  'Biberach%28Ri%C3%9F%29', 'E', '2', '2') """
+
+""" print(f'TIMESTAMP: {datetime.datetime.now()}')
+getData(1, 90, 'data_E_3_1', 'Biberach%28Ri%C3%9F%29', 'Berlin+Hbf', 'E', '3', '1') 
 
 print(f'TIMESTAMP: {datetime.datetime.now()}')
-getData(52, 90, 'data_E_4', 'Berlin+Hbf',  'Biberach%28Ri%C3%9F%29', 'E', '4', '2')
-print(f'TIMESTAMP: {datetime.datetime.now()}')"""
+getData(1, 90, 'biberach-berlin/data_E_4_2', 'Biberach%28Ri%C3%9F%29', 'Berlin+Hbf', 'E', '4', '2')
+print(f'TIMESTAMP: {datetime.datetime.now()}') """
 
 #############################################
-print(f'TIMESTAMP: {datetime.datetime.now()} data_Y_3_1')
-getData(52, 90, 'data_Y_3_1', 'Berlin+Hbf', 'Bahnhof+ZOB%252C+Memmingen','Y', '3', '1')
+#print(f'TIMESTAMP: {datetime.datetime.now()} data_Y_0_1')
+#getData(1, 90, 'data_Y_0_1', 'Biberach%28Ri%C3%9F%29', 'Berlin+Hbf', 'Y', '0', '1')
 
-print(f'TIMESTAMP: {datetime.datetime.now()} data_Y_0_1')
-getData(1, 90, 'data_Y_0_1', 'Biberach%28Ri%C3%9F%29', 'Berlin+Hbf', 'Y', '0', '1')
+#print(f'TIMESTAMP: {datetime.datetime.now()} data_E_4_2')
+#getData(1, 90, 'data_E_4_2', 'Berlin+Hbf', 'Bahnhof+ZOB%252C+Memmingen', 'E', '4', '2')
 
-print(f'TIMESTAMP: {datetime.datetime.now()} data_Y_4_2')
-getData(1, 90, 'data_Y_4_2', 'Berlin+Hbf', 'Bahnhof+ZOB%252C+Memmingen', 'Y', '4', '2')
+print(f'TIMESTAMP: {datetime.datetime.now()} data_E_3_1')
+getData(1, 90, 'data_E_1_1', 'Bahnhof+ZOB%252C+Memmingen',  'Berlin+Hbf', 'E', '1', '1')
+
+print(f'TIMESTAMP: {datetime.datetime.now()} data_E_2_2')
+getData(1, 90, 'data_E_4_2', 'Bahnhof+ZOB%252C+Memmingen', 'Berlin+Hbf', 'E', '4', '2')
+"""
+print(f'TIMESTAMP: {datetime.datetime.now()} data_E_1_1')
+getData(1, 90, 'data_E_1_1', 'Berlin+Hbf', 'Bahnhof+ZOB%252C+Memmingen', 'E', '1', '1') """
 
 
 print('All Done!!!')
