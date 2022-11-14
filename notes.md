@@ -1,6 +1,5 @@
 recomendation system => predicting missing data, interpolation
 
-
 ### explanatory analysis
 - many plots, fast
 - one-liners
