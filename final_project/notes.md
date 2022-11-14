@@ -55,3 +55,14 @@ preisvorhersage, onehotencoding
 'Berlin+Hbf'
     destinationStation = 'Biberach%28Ri%C3%9F%29'
 
+
+## Getting the data
+explain script, explain diffficulties, explain how much data, folder structure
+defining vocabulary
+double entries at the beginning
+
+## Cleaning data
+
+## Estimate how good data is, how many entries have been missed
+claculate mean entries of each day for each option, see how much variety
+
