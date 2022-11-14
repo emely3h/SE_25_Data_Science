@@ -1,4 +1,4 @@
-price,ticketType,age,discount,date,departure,destination,duration,startTime,arrivalTime
+price,ticketType,age,discount,date,departure,destination,duration,startTime,arrivalTime,changes
 "61,90",Super Sparpreis,E,0,"Sa.,05.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 38min,04:30,12:08,3
 "69,90",Sparpreis,E,0,"Sa.,05.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 38min,04:30,12:08,3
 "134,50",Flexpreis,E,0,"Sa.,05.11.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 38min,04:30,12:08,3
