@@ -66,3 +66,18 @@ double entries at the beginning
 ## Estimate how good data is, how many entries have been missed
 claculate mean entries of each day for each option, see how much variety
 
+
+
+### Question what time of day are tickets cheapest?
+
+first plot example: 1.12, adult, no discount
+
+matters if you look at sparpresi or flexpreis
+you would think that flexpreis ticket is constant in price because once you have the ticket you can take any train you want. 
+Flexpreis tickets tend to be cheaper in the middle of the day at 11:30 and 15:30
+
+#### Todo
+Just this one day => does it tend to be the same for the other days, other age and discount groups?
+
+#### Takeaways
+before buying a flexticket, check if it is cheaper at an other time
