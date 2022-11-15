@@ -162,7 +162,7 @@ price,ticketType,age,discount,date,departure,destination,duration,startTime,arri
 "30,65",Sparpreis Young,Y,4,"Sa.,31.12.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,07:26,14:32,1
 "72,50",Flexpreis,Y,4,"Sa.,31.12.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,07:26,14:32,1
 "83,45",Flexpreis Plus,Y,4,"Sa.,31.12.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,07:26,14:32,1
-"14,85",Normalpreis,Y,4,"Sa.,31.12.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 39min,07:28,15:07,1
+"14,85",,Y,4,"Sa.,31.12.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 39min,07:28,15:07,1
 "34,40",Super Sparpreis Young,Y,4,"Sa.,31.12.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 06min,07:34,13:40,2
 "38,90",Sparpreis Young,Y,4,"Sa.,31.12.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 06min,07:34,13:40,2
 "71,50",Flexpreis,Y,4,"Sa.,31.12.2022",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 06min,07:34,13:40,2
