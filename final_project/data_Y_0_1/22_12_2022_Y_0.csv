@@ -1,0 +1,141 @@
+price,ticketType,age,discount,date,departure,destination,duration,startTime,arrivalTime,changes,searched tariffClass
+"83,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,9h 22min,00:07,09:29,3,1
+"93,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,9h 22min,00:07,09:29,3,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,9h 22min,00:07,09:29,3,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,9h 22min,00:07,09:29,3,1
+"79,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,9h 50min,00:07,09:57,2,1
+"89,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,9h 50min,00:07,09:57,2,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,9h 50min,00:07,09:57,2,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,9h 50min,00:07,09:57,2,1
+"75,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 41min,04:50,11:31,1,1
+"85,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 41min,04:50,11:31,1,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 41min,04:50,11:31,1,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 41min,04:50,11:31,1,1
+"75,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 27min,05:04,11:31,2,1
+"85,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 27min,05:04,11:31,2,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 27min,05:04,11:31,2,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 27min,05:04,11:31,2,1
+"105,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,5h 42min,06:11,11:53,1,1
+"117,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,5h 42min,06:11,11:53,1,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,5h 42min,06:11,11:53,1,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,5h 42min,06:11,11:53,1,1
+"87,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 49min,06:40,13:29,1,1
+"99,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 49min,06:40,13:29,1,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 49min,06:40,13:29,1,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 49min,06:40,13:29,1,1
+"87,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 23min,07:06,13:29,2,1
+"99,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 23min,07:06,13:29,2,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 23min,07:06,13:29,2,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 23min,07:06,13:29,2,1
+"119,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 47min,07:06,13:53,1,1
+"131,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 47min,07:06,13:53,1,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 47min,07:06,13:53,1,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 47min,07:06,13:53,1,1
+"119,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,5h 53min,08:00,13:53,2,1
+"131,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,5h 53min,08:00,13:53,2,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,5h 53min,08:00,13:53,2,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,5h 53min,08:00,13:53,2,1
+"89,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 11min,08:11,14:22,1,1
+"101,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 11min,08:11,14:22,1,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 11min,08:11,14:22,1,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 11min,08:11,14:22,1,1
+"105,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 29min,09:00,15:29,1,1
+"117,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 29min,09:00,15:29,1,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 29min,09:00,15:29,1,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 29min,09:00,15:29,1,1
+"105,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 21min,09:08,15:29,2,1
+"117,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 21min,09:08,15:29,2,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 21min,09:08,15:29,2,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 21min,09:08,15:29,2,1
+"161,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,5h 42min,10:11,15:53,1,1
+"175,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,5h 42min,10:11,15:53,1,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,5h 42min,10:11,15:53,1,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,5h 42min,10:11,15:53,1,1
+"111,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 31min,11:00,17:31,1,1
+"123,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 31min,11:00,17:31,1,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 31min,11:00,17:31,1,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 31min,11:00,17:31,1,1
+"111,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 23min,11:08,17:31,2,1
+"123,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 23min,11:08,17:31,2,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 23min,11:08,17:31,2,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 23min,11:08,17:31,2,1
+"103,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 45min,11:08,17:53,1,1
+"115,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 45min,11:08,17:53,1,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 45min,11:08,17:53,1,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 45min,11:08,17:53,1,1
+"95,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,5h 52min,12:01,17:53,2,1
+"107,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,5h 52min,12:01,17:53,2,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,5h 52min,12:01,17:53,2,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,5h 52min,12:01,17:53,2,1
+"73,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 14min,12:08,18:22,1,1
+"83,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 14min,12:08,18:22,1,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 14min,12:08,18:22,1,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 14min,12:08,18:22,1,1
+"103,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 31min,13:00,19:31,1,1
+"115,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 31min,13:00,19:31,1,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 31min,13:00,19:31,1,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 31min,13:00,19:31,1,1
+"103,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 23min,13:08,19:31,2,1
+"115,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 23min,13:08,19:31,2,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 23min,13:08,19:31,2,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 23min,13:08,19:31,2,1
+"165,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,5h 42min,14:11,19:53,1,1
+"179,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,5h 42min,14:11,19:53,1,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,5h 42min,14:11,19:53,1,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,5h 42min,14:11,19:53,1,1
+"101,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 29min,15:00,21:29,1,1
+"113,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 29min,15:00,21:29,1,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 29min,15:00,21:29,1,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 29min,15:00,21:29,1,1
+"101,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,7h 28min,15:04,22:32,1,1
+"113,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,7h 28min,15:04,22:32,1,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,7h 28min,15:04,22:32,1,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,7h 28min,15:04,22:32,1,1
+"101,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 21min,15:08,21:29,2,1
+"113,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 21min,15:08,21:29,2,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 21min,15:08,21:29,2,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 21min,15:08,21:29,2,1
+"143,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,7h 54min,15:17,23:11,3,1
+"157,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,7h 54min,15:17,23:11,3,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,7h 54min,15:17,23:11,3,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,7h 54min,15:17,23:11,3,1
+"113,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,7h 28min,16:01,23:29,2,1
+"125,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,7h 28min,16:01,23:29,2,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,7h 28min,16:01,23:29,2,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,7h 28min,16:01,23:29,2,1
+"83,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 50min,17:00,23:50,1,1
+"93,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 50min,17:00,23:50,1,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 50min,17:00,23:50,1,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,6h 50min,17:00,23:50,1,1
+"101,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,7h 38min,17:06,00:44,2,1
+"113,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,7h 38min,17:06,00:44,2,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,7h 38min,17:06,00:44,2,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,7h 38min,17:06,00:44,2,1
+"167,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,12h 22min,17:13,05:35,3,1
+"181,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,12h 22min,17:13,05:35,3,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,12h 22min,17:13,05:35,3,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,12h 22min,17:13,05:35,3,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,10h 31min,19:04,05:35,2,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,10h 31min,19:04,05:35,2,1
+"83,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,9h 30min,21:02,06:32,3,1
+"93,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,9h 30min,21:02,06:32,3,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,9h 30min,21:02,06:32,3,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,9h 30min,21:02,06:32,3,1
+"117,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,10h 18min,21:02,07:20,2,1
+"129,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,10h 18min,21:02,07:20,2,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,10h 18min,21:02,07:20,2,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,10h 18min,21:02,07:20,2,1
+"73,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,9h 52min,22:04,07:56,1,1
+"83,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,9h 52min,22:04,07:56,1,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,9h 52min,22:04,07:56,1,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,9h 52min,22:04,07:56,1,1
+"85,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,11h 42min,22:11,09:53,1,1
+"95,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,11h 42min,22:11,09:53,1,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,11h 42min,22:11,09:53,1,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,11h 42min,22:11,09:53,1,1
+"85,90",Super Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,10h 45min,23:08,09:53,2,1
+"95,90",Sparpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,10h 45min,23:08,09:53,2,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,10h 45min,23:08,09:53,2,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,10h 45min,23:08,09:53,2,1
+"220,90",Flexpreis,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,11h 14min,23:08,10:22,1,1
+"247,40",Flexpreis Plus,Y,0,"Do.,22.12.2022",Bahnhof+ZOB%252C+Memmingen,Berlin+Hbf,11h 14min,23:08,10:22,1,1
