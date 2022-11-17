@@ -28,7 +28,7 @@ tariffClass = '1' or '2'
     ## Y, 4
 ## Berlin - Memmingen
 ## Memmingen - Berlin
-## Berlin - München
+### Berlin - München
 
 # 90 Tage
 
@@ -92,17 +92,29 @@ print(f'TIMESTAMP: {datetime.datetime.now()}') """
 #print(f'TIMESTAMP: {datetime.datetime.now()} data_E_4_2')
 #getData(1, 90, 'data_E_4_2', 'Berlin+Hbf', 'Bahnhof+ZOB%252C+Memmingen', 'E', '4', '2')
 
+
+
+
+print(f'TIMESTAMP: {datetime.datetime.now()} data_E_0_1')
+getData(1, 90, '../data/berlin-memmingen/data_E_0_1', 'Berlin+Hbf', 'Bahnhof+ZOB%252C+Memmingen', 'E', '0', '1')
+
+print(f'TIMESTAMP: {datetime.datetime.now()} data_E_0_2')
+getData(1, 90, '../data/berlin-memmingen/data_E_0_2', 'Berlin+Hbf', 'Bahnhof+ZOB%252C+Memmingen', 'E', '0', '2')
+
+print(f'TIMESTAMP: {datetime.datetime.now()} data_Y_0_1')
+getData(1, 90, '../data/berlin-memmingen/data_Y_0_1', 'Berlin+Hbf', 'Bahnhof+ZOB%252C+Memmingen', 'Y', '0', '1')
+
+
+
+
+print(f'TIMESTAMP: {datetime.datetime.now()} data_E_0_2')
+getData(1, 90, '../data/berlin-biberach/data_E_0_2', 'Berlin+Hbf', 'Biberach%28Ri%C3%9F%29', 'E', '0', '2')
+
+print(f'TIMESTAMP: {datetime.datetime.now()} data_Y_0_2')
+getData(1, 90, '../data/berlin-biberach/data_Y_0_2', 'Berlin+Hbf', 'Biberach%28Ri%C3%9F%29', 'Y', '0', '2')
+
 print(f'TIMESTAMP: {datetime.datetime.now()} data_Y_1_1')
-getData(1, 90, 'data_Y_1_1', 'Bahnhof+ZOB%252C+Memmingen',  'Berlin+Hbf', 'E', '1', '1')
-
-print(f'TIMESTAMP: {datetime.datetime.now()} data_Y_2_2')
-getData(1, 90, 'data_Y_2_2', 'Bahnhof+ZOB%252C+Memmingen',  'Berlin+Hbf', 'E', '2', '2')
-
-print(f'TIMESTAMP: {datetime.datetime.now()} data_Y_3_1')
-getData(1, 90, 'data_Y_3_1', 'Bahnhof+ZOB%252C+Memmingen',  'Berlin+Hbf', 'E', '3', '1')
-
-print(f'TIMESTAMP: {datetime.datetime.now()} data_Y_4_2')
-getData(1, 90, 'data_Y_4_2', 'Bahnhof+ZOB%252C+Memmingen', 'Berlin+Hbf', 'E', '4', '2')
+getData(1, 90, '../data/berlin-biberach/data_Y_1_1', 'Berlin+Hbf', 'Biberach%28Ri%C3%9F%29', 'Y', '1', '1')
 
 
 
@@ -111,6 +123,3 @@ print('All Done!!!')
 
 # camelcase or lowercase?
 
-# continue getting data
-# clean data script
-# script for getting 90 days in one plot

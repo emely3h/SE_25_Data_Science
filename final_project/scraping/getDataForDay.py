@@ -105,8 +105,6 @@ def getAllEntriesForDay(departureStation, destinationStation, date, age, discoun
         
         
         page = rq.get(url)
-        with open('readme.html', 'w') as f:
-            f.write(page.text)
         counter = 0
         while(len(page.text) < 10000 and counter<10): # status code still 200 
             page = rq.get(url)
@@ -143,6 +141,9 @@ def getAllEntriesForDay(departureStation, destinationStation, date, age, discoun
 
 def saveAllEntriesToFile(date, age, discount, allEntries, folderName):
     fileLoc = f'{folderName}/{date[-10:-8]}_{date[-7:-5]}_{date[-4:]}_{age}_{discount}.csv'
+
+    print('FILELOC')
+    print(fileLoc)
     with open(fileLoc, 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
         listToWrite = [['price', 'ticketType', 'age', 'discount', 'date', 'departure', 'destination', 'duration', 'startTime', 'arrivalTime', 'changes', 'searched tariffClass']]
