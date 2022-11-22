@@ -1,0 +1,2 @@
+This repository contains all the work and assignments for SE_25 Data Science module.
+Code and documentation for the project that was handed in can be found in [/final_project](https://github.com/emely3h/SE_25_Data_Science/tree/main/final_project).
