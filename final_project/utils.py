@@ -8,10 +8,17 @@ def read_data(path):
     return pd.read_csv(path, skiprows=[0], header=None, names=headers)
 
 def clean_data(df_raw):
+    """ 
+    As there the webpage only returns 3-4 routes with one timestamp I had to coninuously fetch
+    data every couple of minutes to get all travel options of the day which led to collecting
+    duplicates 
+    """
     df_clean = df_raw.drop_duplicates()
 
+    # get rid of irrelevant ticket types
     df_clean.drop(df_clean[df_clean['ticket type'] == 'Normalpreis'].index, inplace = True)
 
+    # parsing data types
     df_clean['price'] = df_clean['price'].str.replace(',','.')
     df_clean['price'] = df_clean['price'].astype(float)
 
@@ -23,6 +30,7 @@ def clean_data(df_raw):
     df_clean['datetime dep'] = pd.to_datetime(df_clean['datetime dep'], format="%H:%M-%d.%m.%Y")
     df_clean['datetime arr'] = pd.to_datetime(df_clean['datetime arr'], format="%H:%M-%d.%m.%Y")
 
+    # calculating travel time
     df_clean['sub [min]'] = (df_clean['datetime arr'] - df_clean['datetime dep']).astype('timedelta64[m]')
 
     df_clean = df_clean.drop('date', axis=1)
@@ -36,6 +44,12 @@ def clean_data(df_raw):
 
     df_clean['time'] = pd.to_datetime(df_clean['datetime dep']).dt.strftime('%H:%M')
     return df_clean
+
+def save_plot(plot, filename):
+    sb.move_legend(plot, "upper left", bbox_to_anchor=(1, 1))
+
+    fig = plt.get_figure()
+    fig.savefig(filename, dpi=200, bbox_inches='tight')
 
 def create_single_plot(day, route, discount, tariffClass, path, age):
 
