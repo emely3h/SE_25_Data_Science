@@ -1,0 +1,156 @@
+price,ticketType,age,discount,date,departure,destination,duration,startTime,arrivalTime,changes,searched tariffClass
+"33,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,11h 18min,00:22,11:40,2,2
+"39,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,11h 18min,00:22,11:40,2,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,11h 18min,00:22,11:40,2,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,11h 18min,00:22,11:40,2,2
+"42,00",Quer-Durchs-Land-Ticket,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,11h 25min,00:42,12:07,7,2
+"99,40",Normalpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,11h 25min,00:42,12:07,7,2
+"23,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 14min,05:26,12:40,1,2
+"29,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 14min,05:26,12:40,1,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 14min,05:26,12:40,1,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 14min,05:26,12:40,1,2
+"23,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 11min,06:29,13:40,2,2
+"29,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 11min,06:29,13:40,2,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 11min,06:29,13:40,2,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 11min,06:29,13:40,2,2
+"54,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 21min,06:46,14:07,3,2
+"62,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 21min,06:46,14:07,3,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 21min,06:46,14:07,3,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 21min,06:46,14:07,3,2
+"37,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,07:26,14:32,1,2
+"43,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,07:26,14:32,1,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,07:26,14:32,1,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,07:26,14:32,1,2
+"29,70",Normalpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 39min,07:28,15:07,1,2
+"65,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 28min,08:04,14:32,2,2
+"73,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 28min,08:04,14:32,2,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 28min,08:04,14:32,2,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 28min,08:04,14:32,2,2
+"44,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 11min,08:29,15:40,2,2
+"50,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 11min,08:29,15:40,2,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 11min,08:29,15:40,2,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 11min,08:29,15:40,2,2
+"44,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 21min,08:46,16:07,3,2
+"50,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 21min,08:46,16:07,3,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 21min,08:46,16:07,3,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 21min,08:46,16:07,3,2
+"67,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 14min,09:26,16:40,1,2
+"75,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 14min,09:26,16:40,1,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 14min,09:26,16:40,1,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 14min,09:26,16:40,1,2
+"52,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,09:34,16:40,2,2
+"60,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,09:34,16:40,2,2
+"134,50",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,09:34,16:40,2,2
+"155,10",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,09:34,16:40,2,2
+"78,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 36min,10:04,16:40,3,2
+"86,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 36min,10:04,16:40,3,2
+"134,50",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 36min,10:04,16:40,3,2
+"155,10",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 36min,10:04,16:40,3,2
+"63,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 11min,10:29,17:40,2,2
+"71,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 11min,10:29,17:40,2,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 11min,10:29,17:40,2,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 11min,10:29,17:40,2,2
+"54,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 21min,10:46,18:07,3,2
+"62,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 21min,10:46,18:07,3,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 21min,10:46,18:07,3,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 21min,10:46,18:07,3,2
+"74,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 13min,11:26,18:39,1,2
+"82,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 13min,11:26,18:39,1,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 13min,11:26,18:39,1,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 13min,11:26,18:39,1,2
+"74,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 05min,11:34,18:39,2,2
+"82,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 05min,11:34,18:39,2,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 05min,11:34,18:39,2,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 05min,11:34,18:39,2,2
+"78,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 11min,12:29,19:40,2,2
+"86,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 11min,12:29,19:40,2,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 11min,12:29,19:40,2,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 11min,12:29,19:40,2,2
+"74,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 14min,13:26,20:40,1,2
+"82,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 14min,13:26,20:40,1,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 14min,13:26,20:40,1,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 14min,13:26,20:40,1,2
+"78,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 33min,13:34,20:07,3,2
+"86,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 33min,13:34,20:07,3,2
+"134,50",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 33min,13:34,20:07,3,2
+"155,10",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 33min,13:34,20:07,3,2
+"78,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,13:34,20:40,2,2
+"86,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,13:34,20:40,2,2
+"134,50",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,13:34,20:40,2,2
+"155,10",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,13:34,20:40,2,2
+"44,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,8h 08min,13:59,22:07,1,2
+"50,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,8h 08min,13:59,22:07,1,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,8h 08min,13:59,22:07,1,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,8h 08min,13:59,22:07,1,2
+"88,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 11min,14:29,21:40,2,2
+"96,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 11min,14:29,21:40,2,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 11min,14:29,21:40,2,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 11min,14:29,21:40,2,2
+"67,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 14min,15:26,22:40,1,2
+"75,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 14min,15:26,22:40,1,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 14min,15:26,22:40,1,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 14min,15:26,22:40,1,2
+"67,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,15:34,22:40,2,2
+"75,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,15:34,22:40,2,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,15:34,22:40,2,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,15:34,22:40,2,2
+"108,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 36min,16:04,22:40,2,2
+"118,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 36min,16:04,22:40,2,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 36min,16:04,22:40,2,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 36min,16:04,22:40,2,2
+"78,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 11min,16:29,23:40,2,2
+"86,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 11min,16:29,23:40,2,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 11min,16:29,23:40,2,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 11min,16:29,23:40,2,2
+"54,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 05min,17:26,00:31,1,2
+"62,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 05min,17:26,00:31,1,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 05min,17:26,00:31,1,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 05min,17:26,00:31,1,2
+"54,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 57min,17:34,00:31,2,2
+"62,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 57min,17:34,00:31,2,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 57min,17:34,00:31,2,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,6h 57min,17:34,00:31,2,2
+"78,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 13min,20:04,05:17,2,2
+"86,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 13min,20:04,05:17,2,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 13min,20:04,05:17,2,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 13min,20:04,05:17,2,2
+"23,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,8h 55min,20:29,05:24,2,2
+"29,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,8h 55min,20:29,05:24,2,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,8h 55min,20:29,05:24,2,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,8h 55min,20:29,05:24,2,2
+"23,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 05min,21:26,06:31,1,2
+"29,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 05min,21:26,06:31,1,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 05min,21:26,06:31,1,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 05min,21:26,06:31,1,2
+"61,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 40min,21:27,08:07,4,2
+"69,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 40min,21:27,08:07,4,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 40min,21:27,08:07,4,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 40min,21:27,08:07,4,2
+"23,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 40min,21:27,08:07,4,2
+"29,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 40min,21:27,08:07,4,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 40min,21:27,08:07,4,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 40min,21:27,08:07,4,2
+"33,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:28,08:35,4,2
+"39,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:28,08:35,4,2
+"114,90",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:28,08:35,4,2
+"133,20",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 07min,22:28,08:35,4,2
+"94,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 02min,22:38,08:40,3,2
+"102,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 02min,22:38,08:40,3,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 02min,22:38,08:40,3,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 02min,22:38,08:40,3,2
+"27,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 44min,22:38,09:22,2,2
+"33,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 44min,22:38,09:22,2,2
+"136,40",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 44min,22:38,09:22,2,2
+"157,30",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 44min,22:38,09:22,2,2
+"54,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 23min,00:17,09:40,3,2
+"62,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 23min,00:17,09:40,3,2
+"142,20",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 23min,00:17,09:40,3,2
+"163,80",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,9h 23min,00:17,09:40,3,2
+"23,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 12min,00:22,10:34,2,2
+"29,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 12min,00:22,10:34,2,2
+"142,20",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 12min,00:22,10:34,2,2
+"163,80",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,10h 12min,00:22,10:34,2,2
+"23,90",Super Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:28,11:34,2,2
+"29,90",Sparpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:28,11:34,2,2
+"142,20",Flexpreis,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:28,11:34,2,2
+"163,80",Flexpreis Plus,E,0,"So.,15.01.2023",Berlin+Hbf,Biberach%28Ri%C3%9F%29,7h 06min,04:28,11:34,2,2
