@@ -7,10 +7,6 @@ from dbEntry import DBEntry
 from datapoint import DataPoint
 
 
-# check if we already have an object like this in the array- or 
-# is it faster to do it later with pandas?
-# can I check based on the time if the call for sublinks really needs to happen?
-# can I make sleep smaller or increase make frequency smaller?
 
 def getDataPoints(startTimes, endTimes, links, changes, durations):
     dataPoints = []
@@ -94,6 +90,18 @@ def getPriceAndTicketNames(dataPoints):
         dataPoint.pricesName = priceOptionsName
     return dataPoints
         
+def check_for_blocking_response(url, timeString):
+    page = rq.get(url)
+    counter = 0
+    while(len(page.text) < 10000 and counter<10): # status code still 200 
+        page = rq.get(url)
+        counter += 1
+        if counter < 9:
+            print(f'ERROR: calling for link {counter}')
+        else:
+            print(f'ERROR ERROR: missing timestamp {timeString}')
+        time.sleep(3)
+    return page
 
 def getAllEntriesForDay(departureStation, destinationStation, date, age, discount, tariffClass, freq):
     timeStrings = getTimeStrings(freq)
@@ -103,30 +111,13 @@ def getAllEntriesForDay(departureStation, destinationStation, date, age, discoun
         startTime = timeString
         url = f'https://reiseauskunft.bahn.de/bin/query.exe/dn?start=1&existOptimizePrice-deactivated=1&REQ0JourneyStopsS0A=1&S={departureStation}&REQ0JourneyStopsSID=A%3D1%40O%3DBerlin+Hbf%40X%3D13369549%40Y%3D52525589%40U%3D81%40L%3D008011160%40B%3D1%40p%3D1666201716%40&REQ0JourneyStopsZ0A=1&Z={destinationStation}&REQ0JourneyStopsZID=A%3D1%40O%3DBiberach%28Ri%C3%9F%29%40X%3D9793127%40Y%3D48101845%40U%3D81%40L%3D008000943%40B%3D1%40p%3D1666201716%40&date={date}&time={startTime}&timesel=depart&returnDate=&returnTime=&optimize=0&auskunft_travelers_number=1&tariffTravellerType.1={age}&tariffTravellerReductionClass.1={discount}&tariffClass={tariffClass}&externRequest=yes&HWAI=JS%21js%3Dyes%21ajax%3Dyes%21#hfsseq1|dv.03240894.1666477996'
         
-        
-        page = rq.get(url)
-        counter = 0
-        while(len(page.text) < 10000 and counter<10): # status code still 200 
-            page = rq.get(url)
-            counter += 1
-            if counter < 9:
-                print(f'ERROR: calling for link {counter}')
-            else:
-                print(f'ERROR ERROR: missing timestamp {timeString}')
-            time.sleep(3)
-
+        page = check_for_blocking_response(url, timeString)
         links = getLinks(page.text)
-        
         durations, changes = getDurationsChanges(page.text)
         startTimes = getStartTimes(page.text)
         endTimes = getEndTimes(page.text)
-            
         dataPoints = getDataPoints(startTimes, endTimes, links, changes, durations)
-
-
         dataPoints = list(filter(lambda dataPoint: f'{dataPoint.start}-{dataPoint.end}' not in uniqueTimeKeys, dataPoints))
-
-  
         dataPoints = getPriceAndTicketNames(dataPoints)
                 
 

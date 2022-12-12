@@ -1,8 +1,5 @@
 import datetime
-
 from getDataForDay import getDataForDay
-
-
 
 """
 INPUT VARIABLES:
@@ -43,9 +40,6 @@ startTime = '00:00'
 ages = ['Y', 'A'] 
 discounts = ['1', '2', '3', '4'] 
 tariffClasses = ['1', '2']
-
-test = 0
-print(test)
 
 
 def numToString(number):
