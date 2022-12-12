@@ -39,7 +39,7 @@ destinationStation = 'Biberach%28Ri%C3%9F%29'
 startTime = '00:00'
 ages = ['Y', 'A'] 
 discounts = ['1', '2', '3', '4'] 
-tariffClasses = ['1', '2']
+# tariffClasses = ['1', '2']
 
 
 def numToString(number):
@@ -61,9 +61,11 @@ def getData(start, end, folderName, departureStation, destinationStation, age, d
 def for_input_variables(start, destination, folder_name):
     for age in ages:
         for discount in discounts:
-            for tariffClass in tariffClasses:
+            tariffClass = '2'
+            if discount == '1' or discount == '3':
+                tariffClass = '1'
                 print(f'TIMESTAMP: {datetime.datetime.now()} data_{age}_{discount}_{tariffClass}')
-                getData(1, 90, '../data/{folder_name}/data_{age}_{discount}_{tariffClass}', start, destination, age, discount, tariffClass)
+                getData(1, 90, f'../data/{folder_name}/data_{age}_{discount}_{tariffClass}', start, destination, age, discount, tariffClass)
 
 def main():
     for_input_variables('Berlin+Hbf', 'Biberach%28Ri%C3%9F%29', 'berlin-biberach')
