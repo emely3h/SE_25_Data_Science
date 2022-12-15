@@ -2,11 +2,17 @@ import pandas as pd
 import seaborn as sb
 from matplotlib import pyplot as plt
 import datetime
+from datetime import timedelta
+import os
 
 def read_data(path):
     headers = ['price', 'ticket type', 'age', 'discount', 'date', 'departure', 'destination', 'duration', 'start time', 'arrival time', 'changes', 'tariffClass']
     return pd.read_csv(path, skiprows=[0], header=None, names=headers)
 
+def check_arr_next_day(dep, arr):
+    if dep > arr:
+        arr = arr + timedelta(days=1)
+    return arr
 def clean_data(df_raw):
     """ 
     As there the webpage only returns 3-4 routes with one timestamp I had to coninuously fetch
@@ -14,7 +20,6 @@ def clean_data(df_raw):
     duplicates 
     """
     df_clean = df_raw.drop_duplicates()
-
     # get rid of irrelevant ticket types
     df_clean.drop(df_clean[df_clean['ticket type'] == 'Normalpreis'].index, inplace = True)
 
@@ -29,6 +34,8 @@ def clean_data(df_raw):
     df_clean['datetime arr'] = df_clean['arrival time'] +'-'+ df_clean['date']
     df_clean['datetime dep'] = pd.to_datetime(df_clean['datetime dep'], format="%H:%M-%d.%m.%Y")
     df_clean['datetime arr'] = pd.to_datetime(df_clean['datetime arr'], format="%H:%M-%d.%m.%Y")
+
+    df_clean['datetime arr'] = df_clean.apply(lambda row: check_arr_next_day(row['datetime dep'], row['datetime arr']), axis=1 )
 
     # calculating travel time
     df_clean['sub [min]'] = (df_clean['datetime arr'] - df_clean['datetime dep']).astype('timedelta64[m]')
@@ -84,8 +91,11 @@ def create_multiple_plots():
         path=f'data/{route}/data_{age}_{discount}_{tariffClass}/{day_string}_{age}_{discount}.csv'
 
 def get_df_single_day(path):
-    df = read_data(path)
-    df = clean_data(df)
+    try:
+        df = read_data(path)
+        df = clean_data(df)
+    except FileNotFoundError:
+        return pd.DataFrame()
     return df
 
 day = datetime.datetime.strptime('11_11_2022', '%d_%m_%Y').date()
@@ -96,19 +106,33 @@ discount='1'
 tariffClass='1'
 path=f'data/{route}/data_{age}_{discount}_{tariffClass}/{day_string}_{age}_{discount}.csv'
 
-def merge_multiple_tables(route, age, tariffClass, total_days, discount):
 
+def merge_multiple_tables(path, start, end):
     merge_table = pd.DataFrame()
-    for i in range(1, total_days):
-        
-        day = datetime.datetime.now() + datetime.timedelta(i)
-        day_string = day.strftime('%d_%m_%Y')
-        path=f'data/{route}/data_{age}_{discount}_{tariffClass}/{day_string}_{age}_{discount}.csv'
-        table = get_df_single_day(path)
+
+
+    for file in os.listdir(path):  
+        file_path = path + '/' + file
+        table = get_df_single_day(file_path)
         merge_table = pd.concat([merge_table, table], ignore_index=True)
     return merge_table
 
-
+def merge_multiple_tables_custom(path, start_date, total_days=None, end_date = None):
+    day = pd.to_datetime(start_date, format='%d.%m.%Y')
+    
+    if end_date is None:
+        end_date = day + datetime.timedelta(days = total_days)
+    else:
+        end_date = pd.to_datetime(end_date, format='%d.%m.%Y')
+    merge_table = pd.DataFrame()
+    while day < end_date:
+        day_string = day.strftime('%d_%m_%Y')
+        file_path = path + '/' + day_string + '.csv' 
+        table = get_df_single_day(file_path)
+        if table.empty == False:
+            merge_table = pd.concat([merge_table, table], ignore_index=True)
+        day = day + datetime.timedelta(1)
+    return merge_table
 
 def scatterplot_over_day_multiple_days_all_ticket_types():
     table = merge_multiple_tables()
@@ -123,3 +147,30 @@ def scatterplot_over_day_multiple_days_all_ticket_types():
     fig_path = f'plots/berlin-memmingen/all_days.png'
     fig.savefig(fig_path, dpi=200, bbox_inches='tight')
 
+def filter_price_differences(df, min_max, max_changes, max_duration):
+
+    # Filter out rows that don't fit the constraints
+    df.drop(df[df['sub [min]'] > max_duration].index, inplace = True)
+    df.drop(df[df['changes'] > max_changes].index, inplace = True)
+
+    df_flexpreis_plus = df.loc[df['ticket type'] == 'Flexpreis Plus']
+    df_flexpreis_plus.sort_values('price')
+    flexpreis_plus_max = df_flexpreis_plus.iloc[0]
+    flexpreis_plus_min = df_flexpreis_plus.iloc[-1]
+
+    df_flexpreis = df.loc[df['ticket type'] == 'Flexpreis']
+    df_flexpreis.sort_values('price')
+    flexpreis_max = df_flexpreis.iloc[0]
+    flexpreis_min = df_flexpreis.iloc[-1]
+
+    if flexpreis_plus_max['price'] != flexpreis_plus_min['price']:
+        concat = pd.concat([pd.DataFrame(flexpreis_plus_max), pd.DataFrame(flexpreis_plus_min)],axis=1)
+        concat = concat.transpose()
+        min_max = pd.concat([min_max, concat])
+
+    if flexpreis_max['price'] != flexpreis_min['price']:
+        concat = pd.concat([pd.DataFrame(flexpreis_max), pd.DataFrame(flexpreis_min)], axis=1)
+        concat = concat.transpose()
+        min_max = pd.concat([min_max, concat])
+
+    return min_max
